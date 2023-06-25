@@ -1,4 +1,4 @@
-package com.niket.agrawal.springBootOpenApi;
+package com.niket.agrawal.springBootOpenApi.controller;
 
 import java.util.HashMap;
 import java.util.Map;
